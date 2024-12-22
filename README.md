@@ -64,7 +64,17 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
-![Screenshot 2024-12-21 112005](https://github.com/user-attachments/assets/b2571645-977f-4f9a-992e-9a6e66c25977)
+LINKAGE
+![Screenshot 2024-12-22 134856](https://github.com/user-attachments/assets/2b8c4090-1f85-4981-8fe8-8db766fff934)
+BASE PLATE
+![Screenshot 2024-12-22 134804](https://github.com/user-attachments/assets/e997599c-e679-40d9-8203-aa1e7e2555a8)
+GEAR LINKAGE
+![Screenshot 2024-12-22 134828](https://github.com/user-attachments/assets/a82320a1-7bf9-4829-97cb-e38bfe3ce6b1)
+FINGER
+![Screenshot 2024-12-22 134954](https://github.com/user-attachments/assets/1ad51b87-3813-4150-8c4a-b9c8a58ae079)
+ASSEMBLED VIEW
+![Screenshot 2024-12-21 234213](https://github.com/user-attachments/assets/42ce0179-4a32-4ddc-811c-cc1a2350fe79)
+
 
 
 ## RESULT:
