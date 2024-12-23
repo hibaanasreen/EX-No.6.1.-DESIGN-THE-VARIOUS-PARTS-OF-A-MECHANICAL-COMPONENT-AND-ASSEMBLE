@@ -1,7 +1,7 @@
 # EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 
-## DATE:
-16/12/2024
+## DATE: 16/12/2024
+
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
@@ -71,7 +71,7 @@ BASE PLATE
 GEAR LINKAGE
 ![Screenshot 2024-12-22 134828](https://github.com/user-attachments/assets/a82320a1-7bf9-4829-97cb-e38bfe3ce6b1)
 FINGER
-![Screenshot 2024-12-22 134954](https://github.com/user-attachments/assets/1ad51b87-3813-4150-8c4a-b9c8a58ae079)
+![Screenshot 2024-12-23 105727](https://github.com/user-attachments/assets/135c6e10-b20d-46d5-92e5-b13dfc1f6395)
 ASSEMBLED VIEW
 ![Screenshot 2024-12-21 234213](https://github.com/user-attachments/assets/42ce0179-4a32-4ddc-811c-cc1a2350fe79)
 
